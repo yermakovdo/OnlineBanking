@@ -1,2 +1,3 @@
-public class TransactionType {
+public enum TransactionType {
+    DEBIT, CREDIT
 }
